@@ -1,4 +1,4 @@
-# Data-Analytics-Capstone-project
+# Data Analytics Capstone project @TuringCollege
 
 This project consists of three materials:
 
